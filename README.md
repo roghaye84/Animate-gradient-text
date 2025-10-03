@@ -20,8 +20,8 @@ This project demonstrates how to create smooth color transitions on text with pu
 
 ## 📷 Preview
 
-![Animated Gradient Text Preview](https://github.com/roghaye84/Animate-gradient-text/tree/main/assets)
-
+![[Animated Gradient Text Preview](https://github.com/roghaye84/Animate-gradient-text/tree/main/assets)
+](https://github.com/roghaye84/Animate-gradient-text/blob/main/assets/animate-gradient-text.jpeg)
 ---
 
 ## 🔍 Features
